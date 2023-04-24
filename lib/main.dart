@@ -1,5 +1,8 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
+import 'package:provider/provider.dart';
+import 'package:the_notebook/providers/blockProvider.dart';
+import 'package:the_notebook/screen/blockScreen.dart';
 import 'package:the_notebook/screen/home_screen.dart';
 
 Future<void> main() async {
@@ -15,7 +18,9 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      home: homeScreen(),
+      home: ChangeNotifierProvider<blockProvider>(
+          create: (context) => blockProvider(), child: const blockScreen()),
+      /*homeScreen(),*/
     );
   }
 }

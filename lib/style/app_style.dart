@@ -1,4 +1,3 @@
-import 'package:flutter/animation.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
@@ -16,6 +15,16 @@ class AppStyle {
     Colors.green.shade100,
     Colors.blue.shade100,
     Colors.blueGrey.shade100,
+    const Color(0x00e18b43),
+
+//Puce
+    const Color(0x0065393a),
+
+//Ivory
+    const Color(0x00f0efe0),
+
+//Charcoal
+    const Color(0x00414a45),
   ];
 
   static TextStyle mainTitle =
