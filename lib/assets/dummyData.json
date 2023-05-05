@@ -1,0 +1,102 @@
+{
+    "radios": [
+        {
+            "id": 1,
+            "name": "91.2",
+            "tagline": "Diwan FM",
+            "color": "0xff72d6a5",
+            "desc": "Radio Diwan FM Sfax",
+            "url": "https://streaming.diwanfm.net/stream",
+            "icon": "https://yt3.googleusercontent.com/NwxZomhWygqUdgzIvGJdycby5XDJALEe4tb2_dIJ3F8wrMma_QLp6T6eXFPL-XXyWd2ZvwxaLgA=s900-c-k-c0x00ffffff-no-rj",
+            "image": "https://yt3.googleusercontent.com/NwxZomhWygqUdgzIvGJdycby5XDJALEe4tb2_dIJ3F8wrMma_QLp6T6eXFPL-XXyWd2ZvwxaLgA=s900-c-k-c0x00ffffff-no-rj",
+            "lang": "Arabic",
+            "category": "All News",
+            "disliked": false,
+            "order": 1
+        },
+        {
+            "id": 2,
+            "name": "102.9",
+            "tagline": "Zitouna FM",
+            "color": "0xff04080b",
+            "desc": "La Radio Du Coran En Tunisie",
+            "url": "https://stream.radiozitouna.tn/radio/8030/radio.mp3",
+            "icon": "https://cdn-profiles.tunein.com/s86784/images/logog.png?t=158688",
+            "image": "https://cdn-profiles.tunein.com/s86784/images/logog.png?t=158688",
+            "lang": "Arabic",
+            "disliked": false,
+            "category": "Islamic",
+            "order": 2
+        },
+        {
+            "id": 3,
+            "name": "88.9",
+            "tagline": "Mosaïque FM",
+            "color": "0xff066c53",
+            "desc": "Radio Mosaïque FM Tunisie est la plus connue dans le pays",
+            "url": "https://radio.mosaiquefm.net/mosalive",
+            "icon": "https://play-lh.googleusercontent.com/c7PB7eh1l2WJM9gR2d3x3ZOGbA-O07EYjROZdd8v-WdknbbfdnknVkJNeq12AjlVUdY",
+            "image": "https://play-lh.googleusercontent.com/c7PB7eh1l2WJM9gR2d3x3ZOGbA-O07EYjROZdd8v-WdknbbfdnknVkJNeq12AjlVUdY",
+            "lang": "Arabic",
+            "disliked": false,
+            "category": "variété",
+            "order": 3
+        },
+        {
+            "id": 4,
+            "name": "100.6",
+            "tagline": "IFM",
+            "color": "0xff0d487d",
+            "desc": "La 1ère Radio du Rire en Tunisie",
+            "url": "https://live.ifm.tn/radio/8000/ifmlive?1585267848",
+            "icon": "https://tunisia.mom-gmr.org/uploads/tx_lfrogmom/media/129_import.jpg",
+            "image": "https://tunisia.mom-gmr.org/uploads/tx_lfrogmom/media/129_import.jpg",
+            "lang": "Arabic",
+            "disliked": false,
+            "category": "Rire",
+            "order": 4
+        },
+        {
+            "id": 5,
+            "name": "90.7",
+            "tagline": "Jawhara FM",
+            "color": "0xffa06a37",
+            "desc": "La radio la plus écoutée au Sahel Tunisien",
+            "url": "https://streaming2.toutech.net/jawharafm",
+            "icon": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Logo_Jawhara_FM.jpg",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Logo_Jawhara_FM.jpg",
+            "lang": "Arabic",
+            "disliked": false,
+            "category": "variété",
+            "order": 5
+        },
+        {
+            "id": 6,
+            "name": "101.7",
+            "tagline": "Shems FM",
+            "color": "0xff090909",
+            "desc": "Shems FM est la quatrième station de radio privée de Tunisie.",
+            "url": "https://radio.shemsfm.net/shems",
+            "icon": "https://www.tunisienumerique.com/wp-content/uploads/2021/04/Shems-fm-a.jpg",
+            "image": "https://www.tunisienumerique.com/wp-content/uploads/2021/04/Shems-fm-a.jpg",
+            "lang": "Arabic",
+            "disliked": false,
+            "category": "variété",
+            "order": 6
+        },
+        {
+            "id": 7,
+            "name": "103.6",
+            "tagline": "Express FM",
+            "color": "0xff221720",
+            "desc": "Station à vocation économique classée dans le Top 5 des radios tunisiennes",
+            "url": "https://expressfm.ice.infomaniak.ch/expressfm-64.mp3",
+            "icon": "https://www.leconomistemaghrebin.com/wp-content/uploads/2020/10/radioexpress.jpg",
+            "image": "https://www.leconomistemaghrebin.com/wp-content/uploads/2020/10/radioexpress.jpg",
+            "lang": "Arabic",
+            "disliked": false,
+            "category": "économique",
+            "order": 7
+        }
+    ]
+}

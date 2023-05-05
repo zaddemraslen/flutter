@@ -1,4 +1,4 @@
-package com.example.the_notebook
+package com.example.RadioWave
 
 import io.flutter.embedding.android.FlutterActivity
 
